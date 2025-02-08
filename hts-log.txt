@@ -1,0 +1,14 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 04 Feb 2025 21:45:56 at https://nitu.trade/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://nitu.trade/ -O1 "C:\Users\lil tjay\Desktop\paginas\NITU" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:45:57	Warning: 	File not parsed, looks like binary: https://nitu.trade/robots.txt
+21:46:32	Warning: 	Link https://nitu.trade/cdn-cgi/l/email-protection not scanned (follow robots meta tag)
+21:46:33	Error: 	"Not Found" (404) at link https://nitu.trade/assets/img/mask-group.png (from https://nitu.trade/assets/css/style.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 37 seconds : 74 links scanned, 72 files written (45644597 bytes overall) [45193582 bytes received at 1221448 bytes/sec], 686238 bytes transferred using HTTP compression in 23 files, ratio 22%, 18.5 requests per connection
+(1 errors, 2 warnings, 0 messages)
